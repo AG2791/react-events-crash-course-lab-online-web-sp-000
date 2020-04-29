@@ -6,16 +6,13 @@ export default class ChromeBoisDomain extends Component {
   
   handleMouseMove = (event) => {
     
-    capture locatin of mouse from mouse event and invoce
-     event()
-     
-    onMouseMove(event){}
-    
     /* TODO: This method should capture the `x` and `y` coordinates of the mouse
      * from the event and use them to invoke the `drawChromeBoiAtCoords`
      * function that has been provided and is already imported
      * (`drawChromeBoiAtCoords` expects two arguments, an x and a y coordinate)
      */
+     
+     
   }
   
   /* TODO: Create an event handler which, when fired, invokes the provided
