@@ -37,6 +37,7 @@ export default class ChromeBoisDomain extends Component {
         width='900'
         height='600'
         tabIndex="0">
+        
       </canvas>
     )
   }
