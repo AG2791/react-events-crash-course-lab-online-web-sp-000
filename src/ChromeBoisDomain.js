@@ -20,6 +20,9 @@ export default class ChromeBoisDomain extends Component {
    * listener that should fire it!
    */
    
+   onClick(event) {
+     
+   }
    
    
    
