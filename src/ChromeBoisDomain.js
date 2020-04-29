@@ -12,7 +12,7 @@ export default class ChromeBoisDomain extends Component {
      * (`drawChromeBoiAtCoords` expects two arguments, an x and a y coordinate)
      */
      
-     drawChromeBoiAtCoords(event.x, event.y)
+     drawChromeBoiAtCoords(client.x, event.y)
   }
   
   /* TODO: Create an event handler which, when fired, invokes the provided
